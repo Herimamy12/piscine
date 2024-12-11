@@ -1,17 +1,6 @@
-# Ma Piscine à 42 Antananarivo (27.11.2023 - 22.12.2023)
+# Piscine
 
 Bienvenue à la piscine de 42 Antananarivo! Ce repository contient les exercices et rushs réalisés durant la piscine.
-
-## Table des matières
-
-1. [Introduction](#introduction)
-2. [Exercices](#exercices)
-3. [Rushs](#rushs)
-4. [Installation](#installation)
-5. [Utilisation](#utilisation)
-6. [Contributions](#contributions)
-7. [Ressources](#ressources)
-8. [Contact](#contact)
 
 ## Introduction
 
@@ -19,11 +8,8 @@ La piscine est une immersion intensive de 4 semaines où les participants appren
 
 ## Exercices
 
-- **Exercice Shell_00**  
+- **Exercice Shell_00 et Shell_01**  
   Description: Premiers pas avec le shell Unix.
-
-- **Exercice Shell_01**  
-  Description: Avancés dans le shell Unix.
 
 - **Exercice C_00 à C_06**  
   Description: Introduction au langage C, y compris manipulation de chaînes de caractères, boucles, conditions, fonctions, pointeurs, etc.
@@ -61,15 +47,13 @@ Les contributions sont les bienvenues! Veuillez ouvrir une **issue** pour discut
 
 ## Ressources
 
-- [Lien vers le repository GitHub](https://github.com/Herimamy12/piscine)
+- [Lien vers mon blog](https://github.com/Herimamy12/piscine)
 - Documentation supplémentaire, tutoriels et autres ressources utiles.
 
 ## Contact
 
 Pour toute question, vous pouvez me contacter à [herimaminavalonaprosper@gmail.com](mailto:herimaminavalonaprosper@gmail.com).
 
-
 ---
 
 Bonne piscine à tous et que le code soit avec vous!
-
