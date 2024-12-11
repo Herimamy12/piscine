@@ -55,6 +55,14 @@ Les contributions sont les bienvenues! Veuillez ouvrir une **issue** pour discut
 
 Pour toute question, vous pouvez me contacter à [herimaminavalonaprosper@gmail.com](mailto:herimaminavalonaprosper@gmail.com).
 
+## Remerciements
+
+Merci à l'école 42 pour cette incroyable opportunité d'apprentissage et pour le soutien de la communauté. Un grand merci également à tous ceux qui ont contribué directement ou indirectement à ce projet.
+
+#### Auteurs
+
+- [Herimamy12](https://github.com/Herimamy12)
+
 ---
 
 Bonne piscine à tous et que le code soit avec vous!
