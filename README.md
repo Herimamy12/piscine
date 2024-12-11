@@ -1,3 +1,4 @@
+![piscine](piscine.jpg)
 # Piscine
 
 Bienvenue à la piscine de 42 Antananarivo! Ce repository contient les exercices et rushs réalisés durant la piscine.
